@@ -1,4 +1,4 @@
-#Notebook de evaluación, detección y anotación de objetos
+# Notebook de evaluación, detección y anotación de objetos
 
 En este notebook se van a aplicar diferentes métricas de evaluación de las más empleadas en diferentes problemas que pueden resolverse mediante aplicación de redes neuronales. Especifícamente se van a analizar problemas relativos a procesado de imagen (detección de objetos, segmentación, detección de keypoints), procesado de texto (análisis de textos generados) y métricas para medir como de buenas son imágenes generadas por una red neuronal generativa. 
 
